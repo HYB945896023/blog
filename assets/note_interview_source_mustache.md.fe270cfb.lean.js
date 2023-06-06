@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.f23fced7.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/interview/source/mustache.md","lastUpdated":1680535754000}'),r={name:"note/interview/source/mustache.md"};function s(o,c,n,i,p,d){return a(),t("div")}const u=e(r,[["render",s]]);export{_ as __pageData,u as default};

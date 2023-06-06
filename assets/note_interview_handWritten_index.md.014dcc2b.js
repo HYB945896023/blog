@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./app.f23fced7.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/interview/handWritten/index.md","lastUpdated":1676973574000}'),a={name:"note/interview/handWritten/index.md"};function r(o,i,s,d,c,p){return n(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
