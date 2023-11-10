@@ -1,0 +1,1 @@
+import{t as e}from"./chunks/test.fd9325c3.js";import{e as t,c as a,g as r,o}from"./app.88e0c409.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"practice/index.md","lastUpdated":1688983047000}'),c={name:"practice/index.md"},m=t({...c,setup(n){return(s,p)=>(o(),a("div",null,[r(e)]))}});export{_ as __pageData,m as default};
