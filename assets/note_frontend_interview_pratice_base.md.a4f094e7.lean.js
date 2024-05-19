@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.92214221.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/frontend/interview/pratice/base.md","lastUpdated":1699523741000}'),r={name:"note/frontend/interview/pratice/base.md"};function n(o,s,c,i,p,d){return t(),a("div")}const m=e(r,[["render",n]]);export{f as __pageData,m as default};

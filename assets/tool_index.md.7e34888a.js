@@ -1,0 +1,1 @@
+import{t as e}from"./chunks/test.6374cedd.js";import{e as t,o as a,c as o,g as r}from"./app.92214221.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tool/index.md","lastUpdated":1699610299000}'),n={name:"tool/index.md"},i=t({...n,setup(s){return(c,d)=>(a(),o("div",null,[r(e)]))}});export{_ as __pageData,i as default};

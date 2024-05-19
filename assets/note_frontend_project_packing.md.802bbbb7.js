@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.92214221.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/frontend/project/packing.md","lastUpdated":1699523741000}'),n={name:"note/frontend/project/packing.md"};function o(r,c,p,s,d,i){return t(),a("div")}const m=e(n,[["render",o]]);export{f as __pageData,m as default};

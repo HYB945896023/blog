@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n}from"./app.92214221.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/frontend/mistake/element.md","lastUpdated":1676973574000}'),a={name:"note/frontend/mistake/element.md"};function o(r,s,c,d,m,p){return t(),n("div")}const l=e(a,[["render",o]]);export{_ as __pageData,l as default};
